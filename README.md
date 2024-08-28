@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @fitzblixen
-- 👀 I’m interested in Arduino, digging into data sets and making things work
-- 🌱 I’m currently learning Electronics/Robotics and Arduino
-- 💞️ I’m looking to collaborate on roasting a great cup of coffee
+- 👋 Hi, I’m @extraFox
+- 👀 I’m interested in the electronics of Ham Radio
+- 🌱 I’m currently learning Electronics, Radio and Cybersecurity
 - 📫 How to reach me: here for now
 
 <!---
