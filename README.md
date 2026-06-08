@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @extraFox
+- 👋 Hi, I’m xtrfx:
 - 👀 I’m interested in radio, electronics, wireless and hardware security
 - 🌱 I’m currently learning radio electronics, wireless and hardware security
 - 📫 How to reach me: here for now
